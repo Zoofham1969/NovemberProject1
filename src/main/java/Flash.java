@@ -5,6 +5,8 @@ public class Flash {
         System.out.println("Flash Star-city");
 
 
+        // I like flash
+
     }
 
 
